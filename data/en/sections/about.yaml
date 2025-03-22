@@ -19,7 +19,7 @@ company:
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: 'I am a structural engineer from the University of Chile and a current student of Artificial Intelligence and Machine Learning at College LaSalle Montreal. Throughout my more than 10 years in structural calculation and software development for structural engineering, I have developed a deep passion for data analysis and structures. Currently, this enthusiasm is reflected in my work for Obralink, where I lead the development of a software solution for the automatic generation of models and structural analysis. This project, focused on optimizing construction processes, leverages real-time data from each work site, collected by an IoT system developed by the company.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
