@@ -1,6 +1,6 @@
 # section information
 section:
-  name: আমার-সম্পর্কে
+  name: about-me
   id: about
   enable: true
   weight: 1
@@ -8,11 +8,11 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Software Engineer
+designation: Structural and Software Engineer
 # your company information
 company:
-  name: Example Co.
-  url: "https://www.example.com"
+  name: ObraLink
+  url: "https://obralink.com/en"
 
 
 # a summary about you
